@@ -1,6 +1,6 @@
 # Version Record
 
-## v1.0.0 — Initial Public Claim Stack
+## v1.0.1 — Initial Public Claim Stack
 
 **Date:** 2026-06-29  
 **Author:** Alyssa Solen  
